@@ -1,0 +1,22 @@
+ #                 #  \\\######  #########  #########    ######   #       #
+ #                 #     \\\\\#  #          #       #   #      #  ##     ##
+ #                 #          \\\\\\        #       #  #          # #   # #
+#                  #  #########  ###\\\\##  #       #   ######    # #   # #
+#          #       #          #  #      \\\\\       #         #   #  # #  #
+#          #       #          #  #       #  #\\\\   #  #     #    #  # #  #
+#########   #######   #########  #########  #####\\\\   #####     #   #   #
+    垃        圾          3          6          0         死          妈
+===========================================================================
+弹广告的应用位置：
+C:\Users\LENOVO\AppData\Roaming\360Safe\SoftMgr\sesvcr.exe
+C:\Users\LENOVO\AppData\Roaming\360Safe\SoftMgr\multitip.exe
+C:\Users\LENOVO\AppData\Roaming\360se6\Application\components\sesvr\13.0.0.1323\sesvcr.exe
+弹广告的应用的母应用：
+C:\Users\LENOVO\AppData\Roaming\360se6\Application\components\sesvr\13.0.0.1323\sesvr.exe
+C:\Users\LENOVO\AppData\Roaming\360se6\Application\components\sesvc\sesvc.exe
+C:\Users\LENOVO\AppData\Roaming\360se6\Application\components\seapp\SeAppService.exe
+其他弹窗：
+[垃圾清理提醒]D:\360\360Safe\sweeper\360CleanHelper.exe
+[日历消息提醒]D:\360\360Safe\SoftMgr\GameChrome.exe
+[开机小助手]D:\360\360Safe\SoftMgr\360speedld.exe
+[开机小助手2]D:\360\360Safe\SoftMgr\360SpeedldEx.exe
